@@ -49,12 +49,12 @@ namespace SOAPcalculator
 
         public int age(int a)
         {
-            return 10;
+            return a;
         }
 
         public int ko(int a)
         {
-            return 1;
+            return a;
         }
     }
 }
