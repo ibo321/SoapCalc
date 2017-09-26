@@ -46,5 +46,10 @@ namespace SOAPcalculator
         {
             return a/b;
         }
+
+        public int age(int a)
+        {
+            return 10;
+        }
     }
 }

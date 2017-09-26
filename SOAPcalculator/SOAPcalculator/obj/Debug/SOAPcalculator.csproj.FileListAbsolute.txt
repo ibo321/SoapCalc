@@ -4,3 +4,9 @@ c:\users\bruger\documents\visual studio 2015\Projects\SOAPcalculator\SOAPcalcula
 c:\users\bruger\documents\visual studio 2015\Projects\SOAPcalculator\SOAPcalculator\obj\Debug\SOAPcalculator.csprojResolveAssemblyReference.cache
 c:\users\bruger\documents\visual studio 2015\Projects\SOAPcalculator\SOAPcalculator\obj\Debug\SOAPcalculator.dll
 c:\users\bruger\documents\visual studio 2015\Projects\SOAPcalculator\SOAPcalculator\obj\Debug\SOAPcalculator.pdb
+C:\Users\Bruger\Source\Repos\SoapCalc\SOAPcalculator\SOAPcalculator\bin\SOAPcalculator.dll.config
+C:\Users\Bruger\Source\Repos\SoapCalc\SOAPcalculator\SOAPcalculator\bin\SOAPcalculator.dll
+C:\Users\Bruger\Source\Repos\SoapCalc\SOAPcalculator\SOAPcalculator\bin\SOAPcalculator.pdb
+C:\Users\Bruger\Source\Repos\SoapCalc\SOAPcalculator\SOAPcalculator\obj\Debug\SOAPcalculator.csprojResolveAssemblyReference.cache
+C:\Users\Bruger\Source\Repos\SoapCalc\SOAPcalculator\SOAPcalculator\obj\Debug\SOAPcalculator.dll
+C:\Users\Bruger\Source\Repos\SoapCalc\SOAPcalculator\SOAPcalculator\obj\Debug\SOAPcalculator.pdb

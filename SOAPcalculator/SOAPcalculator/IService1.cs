@@ -32,6 +32,9 @@ namespace SOAPcalculator
 
         [OperationContract]
         int Div(int a, int b);
+
+        [OperationContract]
+        int age(int a);
     }
 
 
