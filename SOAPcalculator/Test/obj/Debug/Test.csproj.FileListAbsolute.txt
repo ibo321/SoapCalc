@@ -1,0 +1,6 @@
+C:\Users\Bruger\Source\Repos\SoapCalc\SOAPcalculator\Test\bin\Debug\Test.exe.config
+C:\Users\Bruger\Source\Repos\SoapCalc\SOAPcalculator\Test\bin\Debug\Test.exe
+C:\Users\Bruger\Source\Repos\SoapCalc\SOAPcalculator\Test\bin\Debug\Test.pdb
+C:\Users\Bruger\Source\Repos\SoapCalc\SOAPcalculator\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bruger\Source\Repos\SoapCalc\SOAPcalculator\Test\obj\Debug\Test.exe
+C:\Users\Bruger\Source\Repos\SoapCalc\SOAPcalculator\Test\obj\Debug\Test.pdb

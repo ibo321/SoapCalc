@@ -38,6 +38,9 @@ namespace SOAPcalculator
 
         [OperationContract]
         int ko(int a);
+
+        [OperationContract]
+        int ok(int a);
     }
 
 

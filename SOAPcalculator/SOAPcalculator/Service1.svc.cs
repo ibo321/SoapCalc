@@ -56,5 +56,10 @@ namespace SOAPcalculator
         {
             return a;
         }
+
+        public int ok(int a)
+        {
+            return a;
+        }
     }
 }
