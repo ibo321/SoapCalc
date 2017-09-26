@@ -35,6 +35,9 @@ namespace SOAPcalculator
 
         [OperationContract]
         int age(int a);
+
+        [OperationContract]
+        int ko(int a);
     }
 
 

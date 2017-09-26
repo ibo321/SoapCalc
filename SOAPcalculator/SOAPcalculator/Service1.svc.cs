@@ -51,5 +51,10 @@ namespace SOAPcalculator
         {
             return 10;
         }
+
+        public int ko(int a)
+        {
+            return 1;
+        }
     }
 }
